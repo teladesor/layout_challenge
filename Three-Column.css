@@ -1,0 +1,57 @@
+.container {
+    max-width: 400px;
+}
+
+.top-one {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 100%;
+  margin-bottom: 5px;
+  height: 75px;
+  float: left;
+}
+
+.first-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 18%;
+  margin-right: 2%;
+  height: 150px;
+  float: left;
+}
+
+.second-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 58%;
+  margin-right: 2%;
+  height: 150px;
+  float: left;
+}
+
+.third-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 18%;
+  height: 150px;
+  float: right;
+}
+
+.bottom-one {
+   border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 100%;
+  margin-top: 5px;
+  height: 75px;
+  float: left;
+}

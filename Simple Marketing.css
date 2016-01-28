@@ -1,0 +1,81 @@
+.container {
+    max-width: 400px;
+}
+
+.top-one {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 100%;
+  margin-bottom: 1px;
+  height: 70px;
+  float: left;
+}
+
+.second-row {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 49%;
+  margin-right: 3px;
+  height: 150px;
+  float: left;
+}
+
+.second-rowb {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 49%;
+  height: 150px;
+  float: left;
+}
+
+.first-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 32%;
+  margin-top: 1px;
+  margin-right: 1px;
+  height: 80px;
+  float: left;
+}
+
+.second-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 33%;
+  margin-top: 1px;
+  margin-right: 1px;
+  height: 80px;
+  float: left;
+}
+
+.third-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 32%;
+  margin-top: 1px;
+  height: 80px;
+  float: right;
+}
+
+.bottom-one {
+   border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 100%;
+  margin-top: 1px;
+  height: 70px;
+  float: left;
+}

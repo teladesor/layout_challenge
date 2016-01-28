@@ -1,0 +1,179 @@
+.container {
+    max-width: 400px;
+}
+
+.top-one {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 25%;
+  height: 80px;
+  float: left;
+}
+.top-container {
+  width: 55%;
+  margin-bottom: 1px;
+  margin-top: 25px;
+  height: 50px;
+  float: right;
+}
+.top-a {
+  width: 18%;
+  margin-bottom: 1px;
+  height: 40%;
+  border: 1px solid black;
+  float: left;
+}
+.top-b {
+  width: 18%;
+  margin-bottom: 1px;
+  height: 40%;
+  border: 1px solid black;
+  margin-left:2px;
+  float: right;
+}
+.top-c {
+  width: 18%;
+  margin-bottom: 1px;
+  height: 40%;
+  border: 1px solid black;
+  margin-left:2px;
+  margin-right:2px;
+  float: right;
+}
+.top-d {
+  width: 18%;
+  margin-bottom: 1px;
+  height: 40%;
+  border: 1px solid black;
+  float: right;
+}
+.top-e {
+  width: 18%;
+  margin-bottom: 1px;
+  height: 40%;
+  border: 1px solid black;
+  float: right;
+}
+
+
+.second-rowb {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 71%;
+  height: 60px;
+  margin-top: 1px;
+  float: right;
+}
+
+.first-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 27%;
+  margin-top: 1px;
+  margin-right: 1px;
+  height: 200px;
+  float: left;
+}
+
+.second-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 53%;
+  margin-top: 1px;
+  margin-right: 1px;
+  height: 80px;
+  float: left;
+}
+
+.top-one {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 25%;
+  height: 80px;
+  float: left;
+}
+.bottom-container {
+  width: 50%;
+  margin-bottom: 1px;
+  margin-top: 25px;
+  height: 40px;
+  border: 1px solid black;
+  float: left;
+}
+.bottom-a {
+  width: 22%;
+  margin-bottom: 1px;
+  height: 100%;
+  border: 1px solid black;
+  float: right;
+}
+.bottom-b {
+  width: 22%;
+  margin-bottom: 1px;
+  height: 100%;
+  border: 1px solid black;
+  margin-left:2px;
+  float: right;
+}
+.bottom-c {
+  width: 22%;
+  margin-bottom: 1px;
+  height: 100%;
+  border: 1px solid black;
+  margin-left:2px;
+  margin-right:2px;
+  float: right;
+}
+.bottom-d {
+  width: 22%;
+  margin-bottom: 1px;
+  height: 100%;
+  border: 1px solid black;
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.third-top {
+  border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 16%;
+  margin-top: 1px;
+  height: 60px;
+  float: right;
+}
+.bottom-one {
+   border-size: 1px;
+  border-style: solid;
+  border-color: black;
+  border: 1px solid black;
+  width: 100%;
+  margin-top: 1px;
+  height: 70px;
+  float: left;
+}
+
